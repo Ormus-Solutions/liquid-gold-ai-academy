@@ -6,7 +6,7 @@
 | 02 | Subagents | pack ready | | | | | ORM-294 |
 | 03 | Introduction to MCP | pack ready | | | | | ORM-296 |
 | 04 | MCP Advanced Topics | pack ready | | | | | ORM-295 |
-| 05 | Claude Code in Action | not started | | | | | ORM-297 |
+| 05 | Claude Code in Action | pack ready | | | | | ORM-297 |
 | 06 | Building with the Claude API | not started | | | | | ORM-300 |
 | 07 | HF MCP Course | not started | | | | | ORM-298 |
 | 08 | HF AI Agents Course | not started | | | | | ORM-302 |
