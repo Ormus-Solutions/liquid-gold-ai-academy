@@ -3,7 +3,7 @@
 | # | Course | Status | Started | Completed | Score | Certificate URL | Linear |
 |---|--------|--------|---------|-----------|-------|-----------------|--------|
 | 01 | Agent Skills | pack ready | | | | | ORM-293 |
-| 02 | Subagents | not started | | | | | ORM-294 |
+| 02 | Subagents | pack ready | | | | | ORM-294 |
 | 03 | Introduction to MCP | not started | | | | | ORM-296 |
 | 04 | MCP Advanced Topics | not started | | | | | ORM-295 |
 | 05 | Claude Code in Action | not started | | | | | ORM-297 |
